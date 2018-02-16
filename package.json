@@ -1,0 +1,22 @@
+{
+  "name": "futsalapp",
+  "version": "1.0.0",
+  "description": "Booking futsal matches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjenitish/futsalApp.git"
+  },
+  "keywords": [
+    "futsal"
+  ],
+  "author": "Nitish Aroj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marjenitish/futsalApp/issues"
+  },
+  "homepage": "https://github.com/marjenitish/futsalApp#readme"
+}
