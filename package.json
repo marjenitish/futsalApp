@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/marjenitish/futsalApp/issues"
   },
-  "homepage": "https://github.com/marjenitish/futsalApp#readme"
+  "homepage": "https://github.com/marjenitish/futsalApp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
